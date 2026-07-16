@@ -1,3 +1,5 @@
+# Remove Duplicates From an Unsorted Array
+
 class Solution:
     def sample(self, arr):
         seen = {}
