@@ -17,8 +17,10 @@ def main():
     arr = list(map(int, input().split()))
     obj = Solution()
     print(obj.rearrange(arr))
-if __name__ =="__main__":
+    
+if __name__ == "__main__":
     main()
+
         
             
             
