@@ -1,3 +1,6 @@
+#Find the smallest number in an array
+
+
 arr = list(map(int, input().split()))
 
 smallest = arr[0]
