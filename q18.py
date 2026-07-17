@@ -10,7 +10,7 @@ def main():
     arr = list(map(int, input().split()))
     obj = Solution()
     
-    print(obj.sample(arr))
+    print(*obj.sample(arr))
     
 if __name__ == "__main__":
     main()
