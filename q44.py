@@ -1,3 +1,4 @@
+# Maximum occurring character in a string
 class Solution:
     def sample(self,s):
         freq = {}
